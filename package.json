@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Caio-Evangelista/video-edtion/issues"
   },
-  "homepage": "https://github.com/Caio-Evangelista/video-edtion#readme"
+  "homepage": "https://github.com/Caio-Evangelista/video-edtion#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
